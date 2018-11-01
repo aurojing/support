@@ -24,10 +24,12 @@ Official Weibo: Aurojing_group
 Additionally, you may send us a message by filling the form in the link below: https://docs.google.com/forms/d/e/1FAIpQLScG6wwKCu-RzyeFsxvEDfVTqq0lLBaQ6jErQkGRSrwdn-jQTg/viewform
 
 
-## Implementation
-Founded in 2018. Over the past months, we have developed over 10 mobile and web apps. We are committed to helping our clients design & develop innovative, unique web solutions that effectively resolve even the most complex of business challenges. We use the latest tools and techniques to build powerful, responsive applications in a solid and secure way.
+## About Aurojing
+Building our own apps and help you build your dream mobile applications. Most experiences you have with outsourced software development are less than pleasant. When is the last time you felt passionate about your technology partner? That's not the world that we (and hopefully you) want to live in.
 
-Mobile/Tablet Apps of All Kinds, eCommerce: Web and Mobile, Mobile Games
+We are here to change that. With Aurojing, you'll experience a world class service in line with industry standards, best practices and cutting edge technologies. We provide constant communication to make sure you are satisfied and confident with the progress in a transparent and timely manner. Your happiness is our priority.
+
+Have a great new product idea and nobody to start building it? We’d love to help.
 
 
 ## Authors
@@ -40,9 +42,6 @@ The contents of this repository is licensed under the https://github.com/aurojin
 ## Privacy Agreement
 https://sites.google.com/view/aurojing-privacypolicy
 
-## Acknowledgments
-
-* Thanks to the team who put up together and kept going to make awesome apps. 
 
 
 
