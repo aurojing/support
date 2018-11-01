@@ -38,7 +38,7 @@ Mobile/Tablet Apps of All Kinds, eCommerce: Web and Mobile, Mobile Games
 The contents of this repository is licensed under the https://github.com/aurojing/Hangzhou-Kecheng-Support/blob/master/LICENSE
 
 ## Privacy Agreement
-https://sites.google.com/view/kecheng-privacy-policy/home
+https://sites.google.com/view/aurojing-privacypolicy
 
 ## Acknowledgments
 
