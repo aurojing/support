@@ -1,4 +1,4 @@
-# Technical Support
+# Aurojing-Technical Support
 
 ![alt text](https://conquestimaging.com/wp-content/uploads/2018/03/24-7-tech-support-active-300x273.png)
 
